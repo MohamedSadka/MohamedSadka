@@ -12,15 +12,15 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
-<!-- contact with me -->
-<a href="https://linkedin.com/in/mohamed-ramadan-579a26240/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Ramadan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
-- my likedin link => https://www.linkedin.com/in/mohamed-ramadan-579a26240/
+<!-- contact with me -->
+<a href="https://linkedin.com/in/mohamed-ramadan-579a26240/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Ramadan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
